@@ -29,7 +29,7 @@ flowchart LR
 | # | Etapa | Status |
 |---|-------|--------|
 | 1 | Docker + n8n rodando localmente | Concluído |
-| 2 | Twilio WhatsApp Sandbox configurado | Pendente |
+| 2 | Twilio WhatsApp Sandbox configurado | Concluído |
 | 3 | Webhook Twilio → n8n recebendo mensagens | Pendente |
 | 4 | Parsing do texto da mensagem (valor + categoria) | Pendente |
 | 5 | Integração com Google Sheets API | Pendente |
